@@ -1,0 +1,25 @@
+/* CSS style file for about.html */
+
+body {
+  font-family: sans-serif;
+}
+
+p.title {
+  text-align: center;
+  color: blue;
+  font-size: 30pt;
+}
+
+.center {
+  text-align: center;
+  display: block;
+}
+
+.blue {
+  color: blue;
+}
+
+table.width1200 {
+   width: 1200px;
+}
+
