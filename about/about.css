@@ -19,7 +19,8 @@ p.title {
   color: blue;
 }
 
-table.width1200 {
-   width: 1200px;
+table.width1000 {
+  table-layout: fixed;
+  width: 1000px;
 }
 
