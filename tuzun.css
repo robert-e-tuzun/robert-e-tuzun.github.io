@@ -11,7 +11,11 @@ p.title {
 }
 
 .center {
-   text-align: center;
-   display: block;
+  text-align: center;
+  display: block;
+}
+
+.blue {
+  color: blue;
 }
 
